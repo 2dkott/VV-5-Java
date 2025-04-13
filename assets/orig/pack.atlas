@@ -1,0 +1,7 @@
+pack.png
+	size: 128, 64
+	filter: Linear, Linear
+Sprite-0001
+	bounds: 1, 4, 100, 40
+white-pixel
+	bounds: 1, 1, 1, 1
